@@ -1,0 +1,11 @@
+[
+  { "id": 0, "name": "Proto-Indo-European", "description": "The predecessor of today's modern European languages.",
+    "sublanguages": [{
+      "id": 0, "name": "English", "description": "Our modern, post-Norman tongue."
+    }]
+  },
+  { "id": 1, "name": "Proto-Altaic", "description": "The (hypothetical) predecessor of today's modern Japonic/Turkish languages." },
+  { "id": 2, "name": "Proto-Semitic", "description": "The predecessor of today's modern Middle Eastern languages." },
+  { "id": 3, "name": "Proto-Bantu", "description": "The predecessor of today's modern West African languages." },
+  { "id": 4, "name": "Austronesian", "description": "The predecessor of today's modern Indonesian/Malaysian languages." }
+]
